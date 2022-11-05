@@ -4,6 +4,7 @@ import pygame
  
 # initialize pygame
 pygame.init()
+print("yayay")
  
 fps = 60
 fpsClock = pygame.time.Clock()
